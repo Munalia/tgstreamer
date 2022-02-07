@@ -11,9 +11,9 @@
       "modular",
       "media"
     ],
-  "repository": "https://github.com/eyMarv/ultraMarv-roku",
+  "repository": "https://github.com/munalia/ultraMarv-roku",
   "success_url": "/",
-  "website": "https://github.com/eyMarv/ultraMarv-roku",
+  "website": "https://github.com/munalia/ultraMarv-roku",
   "env": {
       "ENV": {
           "description": "Set this to True if you don't want to crash the bot",
@@ -68,3 +68,5 @@
           "quantity": 1,
           "size": "free"
       }
+  }
+}
